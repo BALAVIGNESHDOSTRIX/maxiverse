@@ -1,0 +1,14 @@
+LICENSE
+README.md
+setup.cfg
+setup.py
+maxiverse/__init__.py
+maxiverse.egg-info/PKG-INFO
+maxiverse.egg-info/SOURCES.txt
+maxiverse.egg-info/dependency_links.txt
+maxiverse.egg-info/requires.txt
+maxiverse.egg-info/top_level.txt
+maxiverse/base/__init__.py
+maxiverse/base/abstract_base.py
+maxiverse/classifier/__init__.py
+maxiverse/classifier/evaluator.py
