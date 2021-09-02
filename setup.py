@@ -6,7 +6,7 @@ with open("README.md", "r") as fh:
 
 setup(
     name='maxiverse', 
-    version='0.0.4',
+    version='0.0.5',
     author="Balavignesh M",
     author_email="crystelpheonix@gmail.com",
     packages=setuptools.find_packages(),
